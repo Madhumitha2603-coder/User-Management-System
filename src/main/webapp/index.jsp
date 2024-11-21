@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+<h1>User Management System</h1>
+<a href="adduser.jsp">Add User</a>
+<a href="displaying-user">Display User</a>
 </body>
 </html>
